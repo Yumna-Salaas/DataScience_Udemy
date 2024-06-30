@@ -31,7 +31,7 @@ These analyses are performed using Scikit-learn and Statsmodels libraries.
 
 ### 2. Cluster Analysis
 
-The project uses KMeans clustering from the Scikit-learn library. The aim is to group data points into clusters based on their features. The market segmentation case study uses Cluster analysis to maximize the output of a marketing campaign. 
+The project uses KMeans and Dendrogram clustering from the Scikit-learn library. The aim is to group data points into clusters based on their features. The market segmentation case study uses Cluster analysis to maximize the output of a marketing campaign. 
 
 ### 3. MNIST Digit Classification
 
