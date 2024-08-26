@@ -26,6 +26,7 @@ The projects include various types of regression analyses:
 - Linear Regression
 - Multiple Linear Regression
 - Logistic Regression
+- Real-life Linear Regression example 
 
 These analyses are performed using Scikit-learn and Statsmodels libraries.
 
